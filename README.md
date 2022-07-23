@@ -20,3 +20,5 @@ All python programs done in tutorials.(MPSTME)
 >4.Convert Celsius to Fahrenheit 
 
 >5.Perform string operations 
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
