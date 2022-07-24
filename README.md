@@ -22,3 +22,25 @@ All python programs done in tutorials.(MPSTME)
 >5.Perform string operations 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
+# **Tutorial 02**
+
+>1.Accept three sides of a triangle and print if the triangle is equilateral, isosceles or scalene.
+
+>2.A function f is defined as follows :
+>f(x) = ax3 – bx2 + cx –d, if x > k
+>= 0, if x = k
+>= -ax3 + bx2 – cx +d, if x < k
+>Write a program that reads a, b, c, d, k and x and prints the value of f(x).
+
+>3.Create a calculator.
+
+>4.A cloth showroom has announced the following discounts on the purchase of specific items:
+>Amount Shorts Pants Shits/T-Shirts
+>0-100 – 3% 5%
+>101-200 5% 8% 10%
+>201-300 10% 12% 15%
+>Above 300 18% 20% 22%
+>Ask user to enter the amount and assign following code for the items such as s for shorts, p for pans and t for shirts/t-shirts.
+>Compute the discount and net amount paid by customer.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
