@@ -57,10 +57,5 @@ All python programs done in tutorials.(MPSTME)
 >5.Accept password from user give five chances (use while with else).
 
 >6.Print the following pattern using nested loop.
->   *
->  * *
-> * * *
->  * *
->   *
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
