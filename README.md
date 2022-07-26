@@ -44,3 +44,23 @@ All python programs done in tutorials.(MPSTME)
 >Compute the discount and net amount paid by customer.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
+# **Tutorial 03**
+
+>1.Count the number of even and odd numbers from a series of numbers 5 to 100 using for and range().
+
+>2.Accept a sentence and print the reverse of each words using for and range().
+
+>3.Print prime numbers within an interval use (break, for with else).
+
+>4.Display the Fibonacci sequence up to nth term where n is provided by the user (use while loop).
+
+>5.Accept password from user give five chances (use while with else).
+
+>6.Print the following pattern using nested loop.
+>   *
+>  * *
+> * * *
+>  * *
+>   *
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
