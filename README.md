@@ -59,3 +59,16 @@ All python programs done in tutorials.(MPSTME)
 >6.Print the following pattern using nested loop.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
+# **Tutorial 03**
+
+>1.Sum all the items in a list.
+
+>2.Read a list of numbers and remove the duplicate numbers from it.
+
+>3.Implement Linear Search using List.
+
+>4.Find the maximum from a list of numbers.
+
+>5.Demonstrate list operations.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
