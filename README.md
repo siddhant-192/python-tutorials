@@ -72,3 +72,14 @@ All python programs done in tutorials.(MPSTME)
 >5.Demonstrate list operations.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
+# **Tutorial 05**
+
+>1.Demonstrate working with tuples
+
+>2.Create a tuple, and find the minimum and maximum number from it.
+
+>3.Find the repeated items of a tuple.
+
+>4.Print the number in words for Example: 1234 => One Two Three Four
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
