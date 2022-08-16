@@ -83,3 +83,14 @@ All python programs done in tutorials.(MPSTME)
 >4.Print the number in words for Example: 1234 => One Two Three Four
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
+# **Tutorial 06**
+
+>1.create a set, add members in set and remove one item from the set
+
+>2.use set functions
+
+>3.find maximum and minimum value in set
+
+>4.find the length of a set
+
+>5.apply set function to find the count of number of vowels in a given string
