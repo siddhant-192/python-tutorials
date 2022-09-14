@@ -96,3 +96,16 @@ All python programs done in tutorials.(MPSTME)
 >5.apply set function to find the count of number of vowels in a given string
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
+# **Tutorial 07**
+
+>1.Demonstrate working with dictionaries in python (create, add, update, print, length, pop, copy).
+
+>2.sort (ascending and descending) a dictionary by keys, values and items.
+
+>3.combine two dictionary adding values for common keys. d1={‘a’:100,’b’:200,'c':300}.
+
+>4.apply dictionary comprehension to convert the item prices of a shopping list from dollars to pounds.
+
+>5.apply dictionary comprehension to write odd or even as per the age value.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
