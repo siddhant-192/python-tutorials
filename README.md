@@ -113,11 +113,11 @@ All python programs done in tutorials.(MPSTME)
 
 >1.a Create a numpy array with all ones
 
-   b. Generate random integers from 5 to 10 and arrange them into 3 * 5 numpy array.
+>  b. Generate random integers from 5 to 10 and arrange them into 3 * 5 numpy array.
 
-   c. Create 4 * 4 identity matrix using numpy function and find its mean value.
+>  c. Create 4 * 4 identity matrix using numpy function and find its mean value.
 
-   d. Create 3 * 3 matrix and pad (fill) the borders with 0’s.
+>  d. Create 3 * 3 matrix and pad (fill) the borders with 0’s.
 
 >2.Create a 5 * 6 array between 10 to 370 such that the difference between the elements are 12 and they are only even numbers. Print the even rows and odd columns from the array.
 
