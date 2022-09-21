@@ -148,3 +148,5 @@ All python programs done in tutorials.(MPSTME)
 >           Anandita 20 Arts 85
 
 >           Priyanka 18 Biology 30
+
+>2. For the given data set display number of empty records, null values for each column. Identify columns that require data cleaning and clean them as per your analysis.
