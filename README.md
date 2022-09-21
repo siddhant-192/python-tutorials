@@ -127,3 +127,24 @@ All python programs done in tutorials.(MPSTME)
 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
+# **Tutorial 09**
+
+>1.Create data dictionary for below data, then convert it into data frame.
+
+>.  i) Print all the columns where the name of students begin with letter A and percentage is higher than 85 using “ index” attribute .
+
+>.  ii) Print Age column “loc” function. Print average age.
+
+>.  iii)Print 0th and 2nd index column using “iloc” function.
+
+>.  iv)Update the Percentage column between 0 and 1.
+
+>           Name Age Stream Percentage
+
+>           Rima 21 Math 58
+
+>           Alok 19 Commerce 92
+
+>           Anandita 20 Arts 85
+
+>           Priyanka 18 Biology 30
