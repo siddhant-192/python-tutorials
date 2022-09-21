@@ -154,7 +154,7 @@ All python programs done in tutorials.(MPSTME)
 >3. Create charts for below dataset.(see the data.csv file)
 
 >   i) Scatter plot of two columns – name and num_children , num_children and num_pets<br>
->   ii) Bar plot of column values – name and age, between any other two columns of your choice.
->   iii) Line plot, multiple columns – name and num_children, num_pets
->   iv) Save plot to file -
->   v) Bar plot with group by – Number of unique names per state
+>   ii) Bar plot of column values – name and age, between any other two columns of your choice.<br>
+>   iii) Line plot, multiple columns – name and num_children, num_pets<br>
+>   iv) Save plot to file -<br>
+>   v) Bar plot with group by – Number of unique names per state<br>
