@@ -150,3 +150,11 @@ All python programs done in tutorials.(MPSTME)
 >           Priyanka 18 Biology 30
 
 >2. For the given data set display number of empty records, null values for each column. Identify columns that require data cleaning and clean them as per your analysis.
+
+>3. Create charts for below dataset.(see the data.csv file)
+
+>   i) Scatter plot of two columns – name and num_children , num_children and num_pets
+>   ii) Bar plot of column values – name and age, between any other two columns of your choice.
+>   iii) Line plot, multiple columns – name and num_children, num_pets
+>   iv) Save plot to file -
+>   v) Bar plot with group by – Number of unique names per state
