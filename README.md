@@ -111,13 +111,10 @@ All python programs done in tutorials.(MPSTME)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 # **Tutorial 08**
 
->1.a Create a numpy array with all ones
-
->  b. Generate random integers from 5 to 10 and arrange them into 3 * 5 numpy array.
-
->  c. Create 4 * 4 identity matrix using numpy function and find its mean value.
-
->  d. Create 3 * 3 matrix and pad (fill) the borders with 0’s.
+>1.a Create a numpy array with all ones<br>
+>  b. Generate random integers from 5 to 10 and arrange them into 3 * 5 numpy array.<br>
+>  c. Create 4 * 4 identity matrix using numpy function and find its mean value.<br>
+>  d. Create 3 * 3 matrix and pad (fill) the borders with 0’s.<br>
 
 >2.Create a 5 * 6 array between 10 to 370 such that the difference between the elements are 12 and they are only even numbers. Print the even rows and odd columns from the array.
 
@@ -131,23 +128,16 @@ All python programs done in tutorials.(MPSTME)
 
 >1.Create data dictionary for below data, then convert it into data frame.
 
->.  i) Print all the columns where the name of students begin with letter A and percentage is higher than 85 using “ index” attribute .
+>   i) Print all the columns where the name of students begin with letter A and percentage is higher than 85 using “ index” attribute .<br>
+>   ii) Print Age column “loc” function. Print average age.<br>
+>   iii)Print 0th and 2nd index column using “iloc” function.<br>
+>   iv)Update the Percentage column between 0 and 1.<br>
 
->.  ii) Print Age column “loc” function. Print average age.
-
->.  iii)Print 0th and 2nd index column using “iloc” function.
-
->.  iv)Update the Percentage column between 0 and 1.
-
->           Name Age Stream Percentage
-
->           Rima 21 Math 58
-
->           Alok 19 Commerce 92
-
->           Anandita 20 Arts 85
-
->           Priyanka 18 Biology 30
+>           Name Age Stream Percentage<br>
+>           Rima 21 Math 58<br>
+>           Alok 19 Commerce 92<br>
+>           Anandita 20 Arts 85<br>
+>           Priyanka 18 Biology 30<br>
 
 >2. For the given data set display number of empty records, null values for each column. Identify columns that require data cleaning and clean them as per your analysis.
 
