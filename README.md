@@ -126,8 +126,7 @@ All python programs done in tutorials.(MPSTME)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 # **Tutorial 09**
 
->1.Create data dictionary for below data, then convert it into data frame.
-
+>1.Create data dictionary for below data, then convert it into data frame.<br>
 >   i) Print all the columns where the name of students begin with letter A and percentage is higher than 85 using “ index” attribute .<br>
 >   ii) Print Age column “loc” function. Print average age.<br>
 >   iii)Print 0th and 2nd index column using “iloc” function.<br>
@@ -141,8 +140,7 @@ All python programs done in tutorials.(MPSTME)
 
 >2. For the given data set display number of empty records, null values for each column. Identify columns that require data cleaning and clean them as per your analysis.
 
->3. Create charts for below dataset.(see the data.csv file)
-
+>3. Create charts for below dataset.(see the data.csv file)<br>
 >   i) Scatter plot of two columns – name and num_children , num_children and num_pets<br>
 >   ii) Bar plot of column values – name and age, between any other two columns of your choice.<br>
 >   iii) Line plot, multiple columns – name and num_children, num_pets<br>
