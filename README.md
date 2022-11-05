@@ -146,3 +146,14 @@ All python programs done in tutorials.(MPSTME)
 >   iii) Line plot, multiple columns – name and num_children, num_pets<br>
 >   iv) Save plot to file -<br>
 >   v) Bar plot with group by – Number of unique names per state<br>
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+# **Tutorial 10**
+
+>1.Create  Account  class  for  a  bank  with  variables  number  and  balance.  Create constructor and two user defined function deposit and withdraw with appropriate arguments.  Create  class  customer  inherited  from  Account  and  with  variables name, address, dob.   Define constructor.     Display details of customer along with balance amount after deposit and withdraw operation.
+
+>2.Write  map  function  to  return  a  list  of  numbers  which  are  square  of  first  10 Fibonacci numbers. 
+  
+>3.Write  a  lambda  function  for  adding  26  to  its  argument,  also  create  a  lambda function that multiplies argument x with argument y and print the result.
+
+>4.CA twitter database is given in which we have username and tweets.users = [ {"username": 'seema', "tweets": ["i love chocolate", "i am a student"]},{"username":  'arush',  "tweets":  []},  {"username":  'kumal',  "tweets":  ["India", "Python"]}, {"username": 'sam', "tweets": []}, {"username": 'lokesh', "tweets": ["i am good"]}, ]
