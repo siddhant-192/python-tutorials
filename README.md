@@ -157,3 +157,7 @@ All python programs done in tutorials.(MPSTME)
 >3.Write  a  lambda  function  for  adding  26  to  its  argument,  also  create  a  lambda function that multiplies argument x with argument y and print the result.
 
 >4.CA twitter database is given in which we have username and tweets.users = [ {"username": 'seema', "tweets": ["i love chocolate", "i am a student"]},{"username":  'arush',  "tweets":  []},  {"username":  'kumal',  "tweets":  ["India", "Python"]}, {"username": 'sam', "tweets": []}, {"username": 'lokesh', "tweets": ["i am good"]}, ]
+>
+>i)Filter out Users which don’t have any tweets/Inactive Users
+>ii)Filter inactive users with just username in uppercase.
+>iii)Return  a  new  list  with  the  string  “your  name  is”  +  name,  but  only  if  length  of name is bigger than 4 using map , filter and Lambdanames=['Rohan','Rhea','bob','to']Output:['your name is Rohan', 'your name is Rhea']
