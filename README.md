@@ -161,3 +161,16 @@ All python programs done in tutorials.(MPSTME)
 >i)Filter out Users which don’t have any tweets/Inactive Users
 >ii)Filter inactive users with just username in uppercase.
 >iii)Return  a  new  list  with  the  string  “your  name  is”  +  name,  but  only  if  length  of name is bigger than 4 using map , filter and Lambdanames=['Rohan','Rhea','bob','to']Output:['your name is Rohan', 'your name is Rhea']
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+# **Tutorial 11**
+
+>1.Write a list of lines into a file using writelines() and then to print non-empty lines of the file one at a time.
+
+>2.Write a python script to continue writing to a file until user enters choice as y and then on user input n stop writing and read the file and count words in the text file those are ending with alphabet "e".
+  
+>3.Write a python script to count the number of lines from a text file which is not starting with an alphabet “T".
+
+>4.Write a python script to count the number of lines from a text file which is not starting with an alphabet “T".
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
