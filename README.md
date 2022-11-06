@@ -174,3 +174,13 @@ All python programs done in tutorials.(MPSTME)
 >4.Write a python script to count the number of lines from a text file which is not starting with an alphabet “T".
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
+# **Tutorial 12**
+
+>1.Write a Python class named Student with two attributes student_id, student_name. Add a new attribute student_class. Create a function to display the entire attribute and their values in Student class with exception handling.
+
+>2.Write a Python class named Student with two instances student1, student2 and assign given values to the said instances attributes. Print all the attributes of student1, student2 instances with their values in the given format with exception handling.
+
+>3.WAP for method overriding & overloading of below diagram with exception handling
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+
