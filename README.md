@@ -183,4 +183,9 @@ All python programs done in tutorials.(MPSTME)
 >3.WAP for method overriding & overloading of below diagram with exception handling
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
+# **Tutorial 13**
 
+>1.Create a table and perform CRUD operations on it
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+END
